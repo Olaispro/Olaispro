@@ -10,14 +10,14 @@ This portfolio turns those interests into reproducible tools and evaluation work
 
 | Project | Focus |
 |---|---|
-| [LLM Evaluation & Quality Benchmark](./llm-evaluation-quality-benchmark) | Rubric scoring and transparent response quality summaries |
-| [Multimodal Dataset Quality Control](./multimodal-dataset-quality) | Manifest, file-integrity, duplicate, and box validation |
-| [Computer Vision Tracking Lab](./computer-vision-object-tracking) | Detector-agnostic IoU tracking and detection association |
-| [Hallucination & Fact Checking Benchmark](./llm-hallucination-factcheck-benchmark) | Evidence-linked claim adjudication and error analysis |
-| [Image Annotation Workbench](./ai-image-annotation-tool) | Browser-based bounding-box annotation with YOLO/COCO export |
-| [AI Dataset Explorer](./ai-dataset-explorer) | Local CSV profiling and portable HTML reports |
-| [Groundwater Prospectivity ML Lab](./groundwater-prospectivity-ml) | Synthetic hydrogeology classification workflow |
-| [Multimodal AI Evaluation Benchmark](./multimodal-ai-evaluation-benchmark) | Shared evaluation schema for image, audio, and video tasks |
+| [LLM Evaluation & Quality Benchmark](https://github.com/Olaispro/llm-evaluation-quality-benchmark) | Rubric scoring and transparent response quality summaries |
+| [Multimodal Dataset Quality Control](https://github.com/Olaispro/multimodal-dataset-quality) | Manifest, file-integrity, duplicate, and box validation |
+| [Computer Vision Tracking Lab](https://github.com/Olaispro/computer-vision-object-tracking) | Detector-agnostic IoU tracking and detection association |
+| [Hallucination & Fact Checking Benchmark](https://github.com/Olaispro/llm-hallucination-factcheck-benchmark) | Evidence-linked claim adjudication and error analysis |
+| [Image Annotation Workbench](https://github.com/Olaispro/ai-image-annotation-tool) | Browser-based bounding-box annotation with YOLO/COCO export |
+| [AI Dataset Explorer](https://github.com/Olaispro/ai-dataset-explorer) | Local CSV profiling and portable HTML reports |
+| [Groundwater Prospectivity ML Lab](https://github.com/Olaispro/groundwater-prospectivity-ml) | Synthetic hydrogeology classification workflow |
+| [Multimodal AI Evaluation Benchmark](https://github.com/Olaispro/multimodal-ai-evaluation-benchmark) | Shared evaluation schema for image, audio, and video tasks |
 
 ## How I approach AI data work
 
