@@ -1,6 +1,6 @@
 # Olamide Ikotun Akinola
 
-**AI Operations Specialist � Multimodal Data Annotator � LLM Evaluation**
+**AI Operations Specialist | Multimodal Data Annotator | LLM Evaluation**
 
 I work across AI response evaluation, multimodal annotation, computer-vision dataset preparation, and quality review. My background in Applied Geology also motivates careful, clearly bounded machine-learning experiments in earth-science contexts.
 
